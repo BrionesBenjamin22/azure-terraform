@@ -1,0 +1,4 @@
+subscription_id = "example-of-subscription_id"
+location = "brazilsouth"
+environment = "lab"
+project_name = "laboratorio"
